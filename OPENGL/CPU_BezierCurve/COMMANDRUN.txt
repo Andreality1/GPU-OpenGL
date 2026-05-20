@@ -1,0 +1,4 @@
+g++ main.cpp glad.c -o app.exe -I./include -L./lib -lglfw3 -lgdi32 -lopengl32
+
+
+g++ main.cpp glad.c -o app.exe -I./include -L./lib -lglfw3 -lgdi32 -lopengl32
